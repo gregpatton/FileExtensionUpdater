@@ -1,0 +1,10 @@
+c:\users\pattong\documents\visual studio 2012\Projects\FileExtensionUpdater\FileExtensionUpdater\bin\Release\FileExtensionUpdater.exe.config
+c:\users\pattong\documents\visual studio 2012\Projects\FileExtensionUpdater\FileExtensionUpdater\bin\Release\FileExtensionUpdater.exe
+c:\users\pattong\documents\visual studio 2012\Projects\FileExtensionUpdater\FileExtensionUpdater\bin\Release\FileExtensionUpdater.pdb
+c:\users\pattong\documents\visual studio 2012\Projects\FileExtensionUpdater\FileExtensionUpdater\bin\Release\FileExtensionUpdater.xml
+c:\users\pattong\documents\visual studio 2012\Projects\FileExtensionUpdater\FileExtensionUpdater\obj\Release\FileExtensionUpdater.Form1.resources
+c:\users\pattong\documents\visual studio 2012\Projects\FileExtensionUpdater\FileExtensionUpdater\obj\Release\FileExtensionUpdater.Resources.resources
+c:\users\pattong\documents\visual studio 2012\Projects\FileExtensionUpdater\FileExtensionUpdater\obj\Release\FileExtensionUpdater.vbproj.GenerateResource.Cache
+c:\users\pattong\documents\visual studio 2012\Projects\FileExtensionUpdater\FileExtensionUpdater\obj\Release\FileExtensionUpdater.exe
+c:\users\pattong\documents\visual studio 2012\Projects\FileExtensionUpdater\FileExtensionUpdater\obj\Release\FileExtensionUpdater.xml
+c:\users\pattong\documents\visual studio 2012\Projects\FileExtensionUpdater\FileExtensionUpdater\obj\Release\FileExtensionUpdater.pdb
